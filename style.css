@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Open+Sans:400,700|Poppins:700');
+@import url('https://use.fontawesome.com/releases/v5.8.1/css/solid.css');
+
+body{
+  font-family: 'Open Sans';
+  background-color: rgb(240,240,240);
+}
+
+h1,h2{
+  font-family: 'Poppins';
+}
+
+h1{
+  color: #3c415e;
+}
+
+h2{
+  color: #30e3ca;
+}
+
+a{
+  font-weight: bold;
+  text-decoration: none;
+  color: #268BD2;
+}
+
+a:hover{
+  color: #1B6295;
+}
+
+.card-white{
+  background-color: white;
+  padding: 24px;
+  box-shadow: 0px 5px 15px rgba(0,0,0,0.1);
+  width: 500px;
+  margin: 24px auto;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.img-circle{
+  width:100px;
+  border-radius:50%;
+}
+
+.list-inline{
+  list-style: none;
+  padding: 0;
+}
+.list-inline li{
+  display: inline-block;
+}
+
+.social-icon{
+  font-size: 32px;
+  color: rgb(220,220,220);
+  margin: 8px 24px;
+}
+
+.social-icon:hover{
+  color: rgb(190,190,190);
+}
