@@ -39,7 +39,8 @@ a:hover{
 }
 
 .img-circle{
-  width:100px;
+  width:192px;
+  height:192px;
   border-radius:50%;
 }
 
